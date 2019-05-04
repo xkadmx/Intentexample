@@ -4,7 +4,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.content.Intent;
-import android.view.View;
+
 
 public class MainActivity extends AppCompatActivity {
 
@@ -16,5 +16,6 @@ public class MainActivity extends AppCompatActivity {
 
     public void onClick() {
         Intent I = new Intent(this, SecondActivity.class);
+        startActivity(I); // as we only have one Intent object created so far
     }
 }
