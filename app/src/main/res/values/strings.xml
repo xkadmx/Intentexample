@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Intent example</string>
+    <string name="apples">Apples</string>
+    <string name="go_to_bacon">Go to bacon</string>
 </resources>
