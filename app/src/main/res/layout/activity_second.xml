@@ -5,7 +5,7 @@
     android:id="@+id/baconActivity"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#72231F"
+    android:background="#673AB7"
     tools:context=".SecondActivity">
 
     <TextView
