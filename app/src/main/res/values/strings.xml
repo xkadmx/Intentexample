@@ -3,4 +3,5 @@
     <string name="apples">Apples</string>
     <string name="go_to_bacon">Go to bacon</string>
     <string name="bacon">bacon</string>
+    <string name="msg">Msg:</string>
 </resources>

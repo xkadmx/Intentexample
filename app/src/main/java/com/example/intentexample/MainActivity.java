@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    public void onClick() {
+    public void onClick(View view) {
         Intent I = new Intent(this, SecondActivity.class);
         startActivity(I); // as we only have one Intent object created so far
     }
